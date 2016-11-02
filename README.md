@@ -15,11 +15,17 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic1.png)
 
   2.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+
+โปรแกรมจะแสดงผลออกมาเป็น
+            This is text 1.
+            This is text 2.
+            This is text 3.
+            
+![](https://github.com/Jarukan57030147/LAB-05/blob/master/img/Capture.PNG?raw=true)
+
+
+
  2.3). แก้โปรแกรมตามรูปด้านล่างนี้
  
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic2.png)
