@@ -53,11 +53,9 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic3.png)
 
  2.6). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+ผลการรันเลข 1 จะออกมาตามตำแหน่งที่เรากำหนด
+![](https://github.com/Jarukan57030147/LAB-05/blob/master/img/Capture4.PNG?raw=true)
 
 3). ทดลองเรื่องการกำหนดความกว้างของอาร์กิวเมนต์
 
