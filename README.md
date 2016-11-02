@@ -17,10 +17,9 @@
   2.2). รันโปรแกรม และบันทึกผลที่ได้
 
 โปรแกรมจะแสดงผลออกมาเป็น
+
             This is text 1.
-            
             This is text 2.
-            
             This is text 3.
             
 ![](https://github.com/Jarukan57030147/LAB-05/blob/master/img/Capture.PNG?raw=true)
